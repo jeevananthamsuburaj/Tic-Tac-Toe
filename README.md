@@ -2,7 +2,7 @@
 
 A fun and interactive 2-player Tic Tac Toe game built using ⚛️ **React**. Challenge a friend 🤝, keep score 🧮, and enjoy a smooth, modern UI! 🧠✨
 
-![Screenshot](./screenshot.png) <!-- Optional: Add a screenshot -->
+![Screenshot](https://github.com/jeevananthamsuburaj/Tic-Tac-Toe/blob/1b304924bf5f24c95ec1675f7d0e9cae1f8e9d08/my-app/src/components/Images/tic-tac-toe.jpeg) <!-- Optional: Add a screenshot -->
 
 ---
 
